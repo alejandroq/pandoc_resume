@@ -10,5 +10,5 @@ Instructions:
 
 Requirements:
 
- * ConTeXt
  * pandoc
+ 

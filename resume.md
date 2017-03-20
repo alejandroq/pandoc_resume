@@ -1,28 +1,26 @@
-Johnny Coder
+Alejandro Quesada
 ============
 
-----
+> <alejandro.quesada.design@gmail.com> | +1 (703)-622-4122 \
+> 2008 N Daniels St, Arlington, VA 22201
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
 
-----
+ux + dev articles [http://www.alexq.me](http://www.alexq.me)
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+James Madison University | Harrisonburg, VA
+B.B.A Computer Information Systems
+Graduated 5/2016 Major GPA 3.45
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Study Aboad Experiences:
 
-    *Minor: Awesomeology*
+* Malm&#246; University | Malm&#246;, Sweden | 5/2015-6/2015
+* Universidad Nacional de San Martin | Buenos Aires, Argentina | 8/2011 - 12/2011
+
+Relevant Classwork: Systems Analysis and Design, Enterprise Architecture, Database Design and Application, Web Development, Computing and Telecommunications Network
 
 Experience
 ----------
@@ -96,5 +94,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <alejandro.quesada.design@gmail.com> | +1 (703)-622-4122 \
+> 2008 N Daniels St, Arlington, VA 22201

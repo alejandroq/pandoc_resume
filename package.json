@@ -1,0 +1,21 @@
+{
+  "name": "resumd",
+  "version": "1.0.0",
+  "description": "resume in md to other formats",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "make all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandroq/resumed.git"
+  },
+  "author": "alejandro r quesada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandroq/resumed/issues"
+  },
+  "homepage": "https://github.com/alejandroq/resumed#readme"
+}
