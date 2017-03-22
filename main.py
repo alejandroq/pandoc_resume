@@ -4,8 +4,9 @@ import pdfkit
 reload(sys)  
 sys.setdefaultencoding('utf8')
 
-options = options = {
+options = {
     'page-size': 'Letter',
+    'dpi':'1100',
     'margin-top': '0.75in',
     'margin-right': '0.75in',
     'margin-bottom': '0.75in',

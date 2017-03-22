@@ -4,9 +4,10 @@
   "description": "resume in md to other formats",
   "main": "index.js",
   "scripts": {
-    "start": "http-server",
+    "start": "node_modules/http-server/bin/http-server; open http://localhost:8081/resume.html",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "make all"
+    "build": "make all",
+    "watch": "gulp"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/alejandroq/resumed/issues"
   },
-  "homepage": "https://github.com/alejandroq/resumed#readme"
+  "homepage": "https://github.com/alejandroq/resumed#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-shell": "^0.6.3",
+    "gulp-watch": "^4.3.11",
+    "http-server": "^0.9.0"
+  }
 }

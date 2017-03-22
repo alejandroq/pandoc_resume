@@ -13,7 +13,8 @@ var options    = ({
 gulp.task('make', function() {
     return gulp.src('./resume.md', {read: false})
             .pipe(shell([
-            	'make html'
+            	'make html',
+              'python main.py'
             ]))
             .pipe(livereload(options))
 });

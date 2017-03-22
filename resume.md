@@ -92,7 +92,3 @@ Extra Section, Call it Whatever You Want
 
 * Other sort of impressive-sounding thing you did
 
-----
-
-> <alejandro.quesada.design@gmail.com> | +1 (703)-622-4122 \
-> 2008 N Daniels St, Arlington, VA 22201
