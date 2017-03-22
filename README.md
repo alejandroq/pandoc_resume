@@ -10,5 +10,5 @@ Instructions:
 
 Requirements:
 
- * pandoc
+ * pandoc `brew install pandoc` on MacOS
  
