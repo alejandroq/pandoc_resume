@@ -69,7 +69,7 @@ Relevant Classwork:
 
 Certifications
 --------------
-AWS Developer Associates || In-Progress, ETA Summer '17
+AWS Developer Associates || eta. Summer 2017
 
 
 Open Source Contributions
@@ -88,9 +88,8 @@ Preferred Languages:
 
 ```
 Tools:
-    Selenium, ProtractorJS, Appium, AngularJS, jQuery, PhoneGap Cordova, NPM, Gulp, Webpack, Drupal 8,  Amazon 
-    Web Services, CSS, SASS, Linux, Apache, MySQL, Git, IntelliJ IDE, Balsamiq Mockups 3, Adobe Photoshop CS6, 
-    Adobe Illustrator, CS6, Scrum, Jenkins and macOS
+    Selenium, ProtractorJS, Appium, AngularJS, jQuery, PhoneGap Cordova, NPM, Gulp, Webpack, Drupal 8,  Amazon Web Services, CSS, SASS, 
+    Linux, Apache, MySQL, Git, IntelliJ IDE, Balsamiq Mockups 3, Adobe Photoshop CS6, Adobe Illustrator, CS6, Scrum, Jenkins and macOS
 ```
 
 ```
