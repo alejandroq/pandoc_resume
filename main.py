@@ -23,4 +23,4 @@ options = {
 }
 
 with open('resume.html') as f:
-    pdfkit.from_file(f, 'out.pdf', options=options)
+    pdfkit.from_file(f, 'resume.pdf', options=options)

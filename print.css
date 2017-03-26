@@ -10,11 +10,11 @@
 
 /* Whole document */
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    width: 800px;
+    font-family: Garamond;
+    width: 850px;
     margin: auto;
     background: #FFFFFF;
-    padding: 10px 10px 10px 10px;
+    padding: 1em;
 }
 
 /* Title of the resume */
@@ -52,6 +52,7 @@ dd {
     margin-left: 17%;
 }
 p {
+    font-size: 1em;
     margin-top:0;
     margin-bottom:7px;
 }
@@ -62,12 +63,30 @@ blockquote {
     margin: .5em 0;
     display: inline;
     padding: .5em 1em;
-    text-align: center;
+    text-align: left;
     border-left: solid 1px #000;
 }
 
 blockquote p {
     display: inline;
+}
+
+blockquote blockquote {
+    border-left: none;
+}
+
+pre {
+    float;left;
+    margin-top:0;
+}
+
+pre code {
+    font-family: Garamond;
+}
+
+/* List Items */
+ul {
+    margin-top: 0;
 }
 
 /* Links */

@@ -1,8 +1,8 @@
 all: html docx rtf
 
 html: resume.html
-resume.html: style_chmduquesne.css resume.md
-	pandoc --standalone -H style_chmduquesne.css \
+resume.html: print.css resume.md
+	pandoc --standalone -H print.css \
         --from markdown --to html \
         -o resume.html resume.md
 
@@ -17,7 +17,7 @@ resume.rtf: resume.md
 clean:
 	rm resume.html
 	rm resume.tex
-	rm resume.tuc
 	rm resume.log
 	rm resume.docx
 	rm resume.rtf
+	rm resume.pdf
