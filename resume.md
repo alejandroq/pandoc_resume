@@ -14,21 +14,21 @@ Work Experience
 
 **ICF**
 :   **Jr. Developer for Web Applications & Front-End || 7/16 - Present**
-:   * Have partaken in 9+ projects for clients like the [EPA](https://www.epa.gov); roles ranging from Technical Lead to QA Engineer leveraging languages such as NodeJS, ES6, Python 2.7, PHP and Java.
-    * Presented in 3 Enlightenment Series and 1 All-Hands on various topics; i.e. ROI of commodotized QA practices for E2E Testing of Microservices, Web and Mobile apps that leverage Selenium Grid, Cross-Browser Testing and integrations with Trello, Jira and Slack via API and/or Webhooks
-    * Led a Drupal 8 project with an awesome team that executed new capabilities on-time and on-budget: AWS Hosting with EBS, CC, CF, NIST-Moderate security, Pattern Lab, Flux inspired front-end state management, E2E QA approach, a great UX and a nearly Headless application via exposed API.
+:   * Have partaken in 9+ projects with clients such as the [EPA](https://www.epa.gov); roles ranging from Technical Lead to QA Engineer leveraging languages such as NodeJS, ES6, Python 2.7, PHP and Java.
+    * Presented in 3 Enlightenment Series and 1 All-Hands on various topics; i.e. ROI of commoditization QA practices for E2E testing of Web and Mobile apps using Selenium Grids, Cross-Browser Testing and integrations with collaborative applications such as Trello and Jira.
+    * Led a project with an awesome team that executed new capabilities on-time and on-budget: AWS IaaS, NIST Moderate Security, Pattern Lab, Flux front-end state management, verbose and integrated E2E QA, a great UX and a near Headless application of Drupal 8
     * Assisted in Cloud Authentication via AWS Cognito and API Gateway for a significant Cordova App
     * Engineered a Python 2.7 pipeline that converted a 558-page .docx into the [FHWA 2015 C&P Report](https://www.fhwa.dot.gov/policy/2015cpr/)
-    * Automated massaging of large datasets from lazy API's, etc into JSON or XML formats 
-    * Tinkered with edge technologies such as SNS Mobile Commons, Mulesoft ESB, Alexa and Wit.ai    
-    * Maintained utilization targets over 100%
+    * Automated massaging of large datasets from lazy API's, etc into appropriate JSON or XML formats 
+    <!-- * Tinkered with edge technologies such as SNS Mobile Commons, Mulesoft ESB, Alexa and Wit.ai     -->
+    <!-- * Maintained utilization targets over 100% -->
 
 
 **James Madison Univeristy**
 :    **Full Stack Developer Intern || 1/16 - 5/16**
 :    * Developed interactive academic material exemplifying: UX, IA, client-side security and AWS EC2
      * Utilized tools: card sorting and interviews to engage 'as-is' student pain points
-     * Gauged positive return in the proportion of students whom eventually competed for best of their class
+     * Gauged positive return in the ratio of students whom eventually competed for best of their class
      * Wrote documentation on the topics of PHP, HTML, CSS & WISP stack instantiation via AWS EC2; this was distributed to all of the Capstone students
 
 
@@ -82,17 +82,16 @@ Skills
 -------
 
 ```
-Preferred Languages:     
-    Python 2.7, ES6, NodeJS, PHP 7, Java, SQL, English, Spanish
+Preferred Languages:    Python 2.7, ES6, NodeJS, PHP 7, SQL, English, Spanish
+```
+<!-- Java -->
+
+```
+Tools:    Selenium, ProtractorJS, Appium, AngularJS 1.6, jQuery, PhoneGap Cordova, NPM, Gulp, Webpack, Drupal 8, 
+    Amazon Web Services, CSS, SASS, Linux, Apache, MySQL, Git, IntelliJ IDE, Balsamiq Mockups 3, Adobe Photoshop CS6, 
+    Adobe Illustrator CS6, Scrum (Agile), Jenkins and macOS
 ```
 
 ```
-Tools:
-    Selenium, ProtractorJS, Appium, AngularJS, jQuery, PhoneGap Cordova, NPM, Gulp, Webpack, Drupal 8,  Amazon Web Services, CSS, SASS, 
-    Linux, Apache, MySQL, Git, IntelliJ IDE, Balsamiq Mockups 3, Adobe Photoshop CS6, Adobe Illustrator, CS6, Scrum, Jenkins and macOS
-```
-
-```
-Interested In:
-    Machine Learning, VR, AR, ReactJS, React Native, Swift and Rust
+Interested In:    Machine Learning, VR, AR, Angular 2, Nginx, ReactJS, React Native, Swift and Rust
 ```
