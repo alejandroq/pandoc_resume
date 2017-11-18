@@ -16,3 +16,5 @@ Requirements:
  update dockerfile for container of dependencies. 
  node serve for html
  generic ENV variables for Python script. 
+ place output in specific directory
+ cleanup repo and add gitignore
