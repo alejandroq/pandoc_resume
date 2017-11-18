@@ -12,3 +12,7 @@ Requirements:
 
  * pandoc `brew install pandoc` on MacOS
  
+ TODO: 
+ update dockerfile for container of dependencies. 
+ node serve for html
+ generic ENV variables for Python script. 
