@@ -6,7 +6,7 @@ sys.setdefaultencoding('utf8')
 
 options = {
     'page-size': 'Letter',
-    'dpi':'1100',
+    'dpi':'750',
     'margin-top': '0.75in',
     'margin-right': '0.75in',
     'margin-bottom': '0.75in',
@@ -22,5 +22,5 @@ options = {
     'no-outline': None
 }
 
-with open('resume.html') as f:
-    pdfkit.from_file(f, 'resume.pdf', options=options)
+with open('dist/resume.html') as f:
+    pdfkit.from_file(f, 'dist/resume.pdf', options=options)

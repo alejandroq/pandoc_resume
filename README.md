@@ -18,3 +18,6 @@ Requirements:
  generic ENV variables for Python script. 
  place output in specific directory
  cleanup repo and add gitignore
+
+Requirements:
+ * docker

@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  resumed:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    command: bash -c "make all; python main.py"
+    container_name: resumed
+    image: resumed
+    volumes:
+      - /home/app/resume
